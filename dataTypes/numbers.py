@@ -1,5 +1,5 @@
 #*************#
-# INT A FLOAT #
+# INT & FLOAT #
 #*************#
 # int & float
 # int   --> intergers -1,0,1,2,3 ect.
