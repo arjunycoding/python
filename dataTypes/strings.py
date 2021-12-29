@@ -81,3 +81,15 @@ selfish[2] # returns '2'
 selfish[0:8:2] # returns '0246'
 selfish[::-1] # returns '76543210'
 selfish[::-2] # returns '75310'
+
+#*********************#
+# METHODS WITH STRING #
+#*********************#
+
+quote = "Hello how are you today"
+
+quote.upper() #uppercase
+quote.lower() #lower+case
+quote.capitalize() #turns first letter into capitleize
+quote.find('ho') #finds the firt orruoence of a text
+quote.replace('ho', "jo") # repolces first stirng with second
