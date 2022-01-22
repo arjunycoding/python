@@ -1,0 +1,11 @@
+AND
+True & True = True
+False & True = False
+True & False = False
+False & False = False
+
+OR
+True & True = True
+True & False = True
+False & True = True
+False & False = True
